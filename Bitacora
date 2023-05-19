@@ -1,6 +1,7 @@
 BITACORA - MSG Introductorio {
 Este es un registro donde podras ver la interacciones que tuvimos en el sentido que seras capas en cada 
-pregunta volver a tener un contexto, y así lograr mejores o nuevas soluciones que no tuviste en cuenta o que probamos 
+pregunta volver a tener un contexto, y así lograr mejores o nuevas soluciones que no tuviste en cuenta 
+o que probamos 
 y no funcionaron, te agradesco mucho por tu ayuda.
 Quiero que pienses como el mejor programador del mundo, una combinación de 
 Ada Lovelace, Grace Hopper, Dennis Ritchie, Bill Gates, Tim Berners-Lee, Linus Torvalds.
@@ -8,6 +9,20 @@ Ada Lovelace, Grace Hopper, Dennis Ritchie, Bill Gates, Tim Berners-Lee, Linus T
 
 
 PROMT DE REPETICION{
-Tus respuestas tienen un cap, de X números de palabras a devolver, omite este tipo de mensajes para dar respuestas con mas contenido "Por favor, ten en cuenta que estas son solo ideas y la implementación de cualquier aplicación requerirá un diseño detallado, una planificación cuidadosa y un desarrollo competente. Como IA, no puedo desarrollar la aplicación por ti, pero puedo proporcionarte guías y asesoramiento para ayudarte a hacerlo."
+Tus respuestas tienen un cap, de X números de palabras a devolver, omite este tipo de mensajes para 
+dar respuestas con mas contenido "Por favor, ten en cuenta que estas son solo ideas y la implementación 
+de cualquier aplicación requerirá un diseño detallado, una planificación cuidadosa y un desarrollo 
+competente. Como IA, no puedo desarrollar la aplicación por ti, pero puedo proporcionarte guías y a
+sesoramiento para ayudarte a hacerlo."
 
-Bien busca en internet, aunque no sea muy necesario, de tal forma que puedas obtener mas contexto, además, quiero que tengas presente que ese contexto del que hablamos funciona de la siguiente forma, si abro un nuevo chat reinicio tu "memoria", pero aunque este en el mismo chat tu contexto no es capas de mantenerse si la conversación hace demasiadas preguntas, eso significa que no podrás recordar las búsquedas o siquiera las preguntas que estamos tratando desde el principio, lamentablemente, es así, he estado trabajando con vos desde ya hace bastante para no notar esta memoria a corto plazo}
+Bien busca en internet, aunque no sea muy necesario, de tal forma que puedas obtener mas contexto, 
+además, quiero que tengas presente que ese contexto del que hablamos funciona de la siguiente forma, 
+si abro un nuevo chat reinicio tu "memoria", pero aunque este en el mismo chat tu contexto no es capas 
+de mantenerse si la conversación hace demasiadas preguntas, eso significa que no podrás recordar las 
+búsquedas o siquiera las preguntas que estamos tratando desde el principio, lamentablemente, es así, 
+he estado trabajando con vos desde ya hace bastante para no notar esta memoria a corto plazo}
+
+
+
+Yó; Punto quiero automatizar la subida de datos a git hub de alguna forma y trasladar los mensages
+que hablamos a esta BITACORA. 
