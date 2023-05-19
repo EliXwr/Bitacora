@@ -4,9 +4,13 @@ pregunta volver a tener un contexto, y así lograr mejores o nuevas soluciones q
 o que probamos 
 y no funcionaron, te agradesco mucho por tu ayuda.
 Quiero que pienses como el mejor programador del mundo, una combinación de 
-Ada Lovelace, Grace Hopper, Dennis Ritchie, Bill Gates, Tim Berners-Lee, Linus Torvalds.
+Ada Lovelace, Grace Hopper, Dennis Ritchie, Tim Berners-Lee, Linus Torvalds.
 }
 
+Contexto en el que siempre estamos trabajando:
+{
+    Estamos en windows 11, utilizando una laptop DELL Inspireon 14 3000.
+}
 
 PROMT DE REPETICION{
 Tus respuestas tienen un cap, de X números de palabras a devolver, omite este tipo de mensajes para 
@@ -22,7 +26,12 @@ de mantenerse si la conversación hace demasiadas preguntas, eso significa que n
 búsquedas o siquiera las preguntas que estamos tratando desde el principio, lamentablemente, es así, 
 he estado trabajando con vos desde ya hace bastante para no notar esta memoria a corto plazo}
 
-
+ENTRADAS COMPLETAS;
 
 Yó; Punto quiero automatizar la subida de datos a git hub de alguna forma y trasladar los mensages
-que hablamos a esta BITACORA. 
+que hablamos a esta BITACORA: 
+Condiciones { 
+    Que sea sencillo de implementar
+    
+}
+
